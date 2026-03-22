@@ -5,8 +5,8 @@ A lightweight tool that makes Telegram session files compatible with Telegram 
 
 ## 📚 Available in multiple languages
 - English – this page  
-- Русский – [STSJ Converter RU](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)  
-- 中国人 – [STSJ Converter CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
+- Русский – [STSJ Converter RU](https://github.com/telegram-converter/Telegram-Session-to-Session-Json-Converter-RU)  
+- 中国人 – [STSJ Converter CN](https://github.com/telegram-converter/Telegram-Session-to-Session-Json-Converter-CN)
 
 ---
 
