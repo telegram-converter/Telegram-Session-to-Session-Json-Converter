@@ -48,7 +48,7 @@ A lightweight tool that makes Telegram session files compatible with Telegram 
 
 ## 📥 Download
 
-- **Always Latest Release** – [GitHub](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter/releases/latest)
+- **Always Latest Release** – [Website](https://telegram-converter.com/downloads/stsj/en/latest)
 
 ---
 
@@ -79,6 +79,6 @@ A lightweight tool that makes Telegram session files compatible with Telegram 
 
 ## ☕️ Donations
 
-- **Buy us a coffee** – [Click](https://nowpayments.io/donation/telegramprime)
+- **Buy us a coffee** – [Click](https://nowpayments.io/donation/mcv)
 
 Thank you for your support!  
